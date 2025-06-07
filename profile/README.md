@@ -8,6 +8,9 @@ DCParkWise is a real-time, rule-aware parking assistant built specifically for W
 
 Whether you're new to the city, a daily commuter, or just running errands downtown, DCParkWise helps you quickly identify where you can legally park and when it's free.
 
+<img width="1703" alt="Screenshot 2025-06-07 at 1 31 07 PM" src="https://github.com/user-attachments/assets/1ecbe173-816c-40e3-8dd8-f7962109ba67" />
+
+
 ---
 
 ## 🚀 What We're Building
