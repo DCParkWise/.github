@@ -1,6 +1,6 @@
 
 DVParkWise
-# DCParkWise 🅿  ok will take time?
+# DCParkWise - Sameer Shaik
 
 **Smart, Street-Level Parking Intelligence for Washington, D.C.**
 
