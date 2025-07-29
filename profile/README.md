@@ -95,5 +95,5 @@ MIT License. See [`LICENSE`](./LICENSE) for details.
 
 ---
 
-## 🌐 Live Site
-👉 [https://sameer-shaik.com/dcparkwise](https://sameer-shaik.com/dcparkwise) *(Coming Soon)*
+## 🌐 Live Site - hosted in vercel
+👉 [https://dcparkwise.vercel.app/](https://dcparkwise.vercel.app/) 
