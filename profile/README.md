@@ -7,7 +7,11 @@ DVParkWise
 ## Overview
 DCParkWise is a real-time, rule-aware parking assistant built specifically for Washington, D.C. It helps users find free and paid parking on D.C. streets based on time, zone, and local regulations—so you can park confidently without second-guessing signs, risking tickets, or circling the block for hours.
 
+
 Whether you're new to the city, a daily commuter, or just running errands downtown, DCParkWise helps you quickly identify where you can legally park and when it's free.
+<img width="1710" height="1039" alt="Screenshot 2025-07-29 at 2 40 28 AM" src="https://github.com/user-attachments/assets/470efef9-91dd-4e17-b211-1c5c397a5687" />
+
+
 
 <img width="1703" alt="Screenshot 2025-06-07 at 1 31 07 PM" src="https://github.com/user-attachments/assets/1ecbe173-816c-40e3-8dd8-f7962109ba67" />
 
