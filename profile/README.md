@@ -8,12 +8,12 @@ DVParkWise
 DCParkWise is a real-time street parking map built to help Uber drivers, DoorDash drivers, and local students find free curbside parking in Washington, D.C.
 Instead of wasting money on metered zones or risking parking tickets, users can see when and where free parking is available — block-by-block, with exact days and time ranges.
 
-**Inspiration**
+###  Inspiration
 Many short-term drivers — especially Uber Eats, DoorDashers, and students renting cars — get parking tickets just for stopping 2 minutes at the curb.
 Even when free parking is available nearby, they don't know where or when.
 We built DCParkWise to help them save money, avoid stress, and park smarter.
 
-**Future Vision **
+###  Future Vision 
 Goal: Integrate with Google Maps or evolve like SpotAngels — but smarter.
 
 DCParkWise shows street-level free parking zones with precise time ranges — SpotAngels does not.
@@ -24,7 +24,7 @@ Users can verify or update timings (e.g., holidays like July 4th).
 
 After 2–3 confirmations, the map reflects new info.
 
-**Key Difference**
+###  Key Difference
 Unlike SpotAngels and other apps, DCParkWise tells you exactly:
 
 Which streets are free
@@ -49,28 +49,28 @@ Whether you're new to the city, a daily commuter, or just running errands downto
 
 ---
 What I Added pretty much everything here:
-1. Enhanced Meta Description
+###  1. Enhanced Meta Description
 Updated the generic React description to a professional DCParkWise summary
 Added relevant keywords for SEO optimization
-2. Three Detailed Paragraphs:
+###  2. Three Detailed Paragraphs:
  How We Built It:
 
-Describes the evolution from concept to sophisticated system
+###  Describes the evolution from concept to sophisticated system
 Mentions React-TypeScript architecture and real-time data integration
 Highlights the professional glassmorphism UI and smart policy parsing
-⚙️ Technologies & APIs Used:
+###  ⚙️ Technologies & APIs Used:
 
 Frontend: React 18, TypeScript, Google Maps JavaScript API
 Data Sources: DC Government ArcGIS REST services (Layer 76/75)
 UI/UX: Advanced CSS with backdrop-filter, keyframe animations
 Architecture: Smart parsing algorithms for policy conversion
-🚧 Challenges Overcome:
+###  🚧 Challenges Overcome:
 
 Data Integration: Complex GIS data structure navigation
 Performance: Rendering 2000+ markers efficiently
 UI/UX: Readable glassmorphism effects with accessibility
 Debugging: Solved "0 meters" issue through API endpoint optimization
-3. SEO Enhancements:
+###  3. SEO Enhancements:
 Added relevant keywords meta tag
 Author attribution
 Professional title update
